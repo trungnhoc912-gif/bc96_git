@@ -19,6 +19,8 @@ git push
     git push
 
 
-tùtuju
-gyuigyv 
+
 file màu xanh git 
+
+
+file viết trực tiếp trên git
