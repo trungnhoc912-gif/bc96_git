@@ -1,0 +1,24 @@
+git config --global user.name ""
+git config --global user.email ""
+git init : thông báo sẽ git cho folder này , chỉ làm 1 lần cho mỗi dự án
+
+git remote add origin duong_dan_den_repo_git : kết nối folder hiện tại với repo trên git 
+VD : git remote add origin https://github.....
+
+git remote -v : kiểm tra lại thông tin 
+
+--đẩy code lên github
+
+git add.
+git commit -m "noidung commit"
+
+git push 
+    ở lần push 
+    git push-u origin main/master
+    lần bình thường (not first)
+    git push
+
+
+tùtuju
+gyuigyv 
+file màu xanh git 
